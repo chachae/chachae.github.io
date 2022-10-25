@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://chachae.github.io</id>
+    <title>chachae</title>
+    <updated>2022-10-25T03:51:10.737Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://chachae.github.io"/>
+    <link rel="self" href="https://chachae.github.io/atom.xml"/>
+    <subtitle>😅</subtitle>
+    <logo>https://chachae.github.io/images/avatar.png</logo>
+    <icon>https://chachae.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2022, chachae</rights>
+</feed>
